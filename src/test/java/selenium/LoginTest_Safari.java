@@ -4,21 +4,21 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.safari.SafariDriver;
 
 import static junit.framework.TestCase.fail;
 
 /**
  * Created by SeleniumGuru.com on 1/6/18.
  */
-public class LoginTest_Chrome {
+public class LoginTest_Safari {
     @Test
     public void login_test() throws InterruptedException {
         //Declare the gecko driver path
-        System.setProperty("webdriver.chrome.driver", "/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/chromedriver");
+        System.setProperty("webdriver.safari.driver", "/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/safaridriver");
 
         //Initialize the selenium webdriver class and create object
-        WebDriver driver = new ChromeDriver();
+        WebDriver driver = new SafariDriver();
 
         //Go to newtours website
         driver.get("http://www.newtours.demoaut.com");
