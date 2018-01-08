@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de1ac2ed-aa6c-46c3-acca-bcf7d730f5cc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/selenium/LoginTest_Safari.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/selenium/LoginTest_Chrome.class" afterPath="$PROJECT_DIR$/target/test-classes/selenium/LoginTest_Chrome.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/selenium/LoginTest_Safari.class" afterPath="$PROJECT_DIR$/target/test-classes/selenium/LoginTest_Safari.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/selenium/LoginTest_Chrome.java" afterPath="$PROJECT_DIR$/src/test/java/selenium/LoginTest_Chrome.java" />
-    </list>
+    <list default="true" id="de1ac2ed-aa6c-46c3-acca-bcf7d730f5cc" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,21 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="LoginTest_IE.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/LoginTest_IE.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/LoginTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
-              <caret line="55" column="5" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
+            <state relative-caret-position="827">
+              <caret line="47" column="38" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="47" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,7 +32,7 @@
       <file leaf-file-name="LoginTest_Chrome.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/selenium/LoginTest_Chrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="819">
+            <state relative-caret-position="789">
               <caret line="55" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -58,14 +41,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginTest_Safari.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/LoginTest_Safari.java">
+      <file leaf-file-name="LoginTest_XPath.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/LoginTest_XPath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="515">
+              <caret line="34" column="45" lean-forward="false" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AllState_HomePage_XPath.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/AllState_HomePage_XPath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="29" column="74" lean-forward="false" selection-start-line="29" selection-start-column="74" selection-end-line="29" selection-end-column="74" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AllState_HomePage_CSS.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/AllState_HomePage_CSS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -97,6 +100,10 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/LoginTest_Chrome.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/LoginTest_Safari.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/LoginTest_IE.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/LoginTest_XPath.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/AllState_HomePage_XPath.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/AllState_HomePage_CSS.java" />
       </list>
     </option>
   </component>
@@ -108,10 +115,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="53" />
-    <option name="y" value="32" />
-    <option name="width" value="1867" />
-    <option name="height" value="999" />
+    <option name="y" value="24" />
+    <option name="width" value="1920" />
+    <option name="height" value="1007" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -244,6 +250,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="selenium" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/java" />
     </key>
@@ -260,85 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LoginTest_Safari.login_test">
-    <configuration default="false" name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="udemyseleniumjava" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="selenium" />
-      <option name="MAIN_CLASS_NAME" value="selenium.LoginTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="LoginTest.login_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="udemyseleniumjava" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="selenium" />
-      <option name="MAIN_CLASS_NAME" value="selenium.LoginTest" />
-      <option name="METHOD_NAME" value="login_test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="LoginTest_Chrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="selenium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="udemyseleniumjava" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="selenium" />
-      <option name="MAIN_CLASS_NAME" value="selenium.LoginTest_Chrome" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.AllState_HomePage_CSS.login_test">
     <configuration default="false" name="LoginTest_Chrome.login_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -377,6 +308,84 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="selenium" />
       <option name="MAIN_CLASS_NAME" value="selenium.LoginTest_Safari" />
+      <option name="METHOD_NAME" value="login_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="LoginTest_XPath.login_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="udemyseleniumjava" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="selenium" />
+      <option name="MAIN_CLASS_NAME" value="selenium.LoginTest_XPath" />
+      <option name="METHOD_NAME" value="login_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="AllState_HomePage_XPath.login_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="udemyseleniumjava" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="selenium" />
+      <option name="MAIN_CLASS_NAME" value="selenium.AllState_HomePage_XPath" />
+      <option name="METHOD_NAME" value="login_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="AllState_HomePage_CSS.login_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="udemyseleniumjava" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="selenium" />
+      <option name="MAIN_CLASS_NAME" value="selenium.AllState_HomePage_CSS" />
       <option name="METHOD_NAME" value="login_test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -596,19 +605,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.LoginTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.LoginTest.login_test" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.LoginTest_Chrome" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.LoginTest_Chrome.login_test" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.LoginTest_Safari.login_test" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.LoginTest_Chrome.login_test" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.LoginTest_Safari.login_test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.LoginTest_XPath.login_test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.AllState_HomePage_XPath.login_test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.AllState_HomePage_CSS.login_test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.LoginTest_Safari.login_test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.LoginTest_Chrome.login_test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.LoginTest_Chrome" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.LoginTest.login_test" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.LoginTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.AllState_HomePage_CSS.login_test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.AllState_HomePage_XPath.login_test" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.LoginTest_XPath.login_test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.LoginTest_Safari.login_test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.LoginTest_Chrome.login_test" />
       </list>
     </recent_temporary>
   </component>
@@ -626,26 +635,23 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginTest_Chrome_login_test - 2018.01.06 at 20h 32m 10s.xml">
-      <configuration name="LoginTest_Chrome.login_test" configurationId="JUnit" />
+    <history-entry file="AllState_HomePage_CSS_login_test - 2018.01.07 at 19h 56m 56s.xml">
+      <configuration name="AllState_HomePage_CSS.login_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest_Chrome_login_test - 2018.01.06 at 20h 32m 30s.xml">
-      <configuration name="LoginTest_Chrome.login_test" configurationId="JUnit" />
+    <history-entry file="AllState_HomePage_CSS_login_test - 2018.01.07 at 19h 57m 37s.xml">
+      <configuration name="AllState_HomePage_CSS.login_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest_Chrome_login_test - 2018.01.06 at 20h 34m 04s.xml">
-      <configuration name="LoginTest_Chrome.login_test" configurationId="JUnit" />
+    <history-entry file="AllState_HomePage_CSS_login_test - 2018.01.07 at 19h 58m 35s.xml">
+      <configuration name="AllState_HomePage_CSS.login_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest_Chrome_login_test - 2018.01.06 at 20h 36m 40s.xml">
-      <configuration name="LoginTest_Chrome.login_test" configurationId="JUnit" />
+    <history-entry file="AllState_HomePage_XPath_login_test - 2018.01.07 at 19h 33m 47s.xml">
+      <configuration name="AllState_HomePage_XPath.login_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest_Chrome_login_test - 2018.01.06 at 20h 43m 56s.xml">
-      <configuration name="LoginTest_Chrome.login_test" configurationId="JUnit" />
+    <history-entry file="AllState_HomePage_XPath_login_test - 2018.01.07 at 19h 34m 14s.xml">
+      <configuration name="AllState_HomePage_XPath.login_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest_Safari_login_test - 2018.01.06 at 20h 47m 08s.xml">
-      <configuration name="LoginTest_Safari.login_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginTest_Safari_login_test - 2018.01.06 at 20h 47m 56s.xml">
-      <configuration name="LoginTest_Safari.login_test" configurationId="JUnit" />
+    <history-entry file="AllState_HomePage_XPath_login_test - 2018.01.07 at 19h 34m 57s.xml">
+      <configuration name="AllState_HomePage_XPath.login_test" configurationId="JUnit" />
     </history-entry>
     <history-entry file="LoginTest_Safari_login_test - 2018.01.06 at 20h 48m 11s.xml">
       <configuration name="LoginTest_Safari.login_test" configurationId="JUnit" />
@@ -655,6 +661,9 @@
     </history-entry>
     <history-entry file="LoginTest_Safari_login_test - 2018.01.06 at 22h 55m 55s.xml">
       <configuration name="LoginTest_Safari.login_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LoginTest_XPath_login_test - 2018.01.07 at 19h 29m 14s.xml">
+      <configuration name="LoginTest_XPath.login_test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -667,25 +676,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="53" y="32" width="1867" height="999" extended-state="0" />
+    <frame x="0" y="24" width="1920" height="1007" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19892474" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18960899" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.184375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25851065" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -831,22 +840,42 @@
         <state relative-caret-position="-9">
           <caret line="55" column="5" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="-9">
           <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/LoginTest_Safari.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/LoginTest_IE.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="827">
+          <caret line="47" column="38" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="47" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium/LoginTest_Chrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="819">
+        <state relative-caret-position="789">
           <caret line="55" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="55" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -854,13 +883,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/LoginTest_Safari.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/LoginTest_XPath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="515">
+          <caret line="34" column="45" lean-forward="false" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/AllState_HomePage_XPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="29" column="74" lean-forward="false" selection-start-line="29" selection-start-column="74" selection-end-line="29" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/AllState_HomePage_CSS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
