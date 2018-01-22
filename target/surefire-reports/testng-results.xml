@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-01-22T00:42:06Z" name="TestNG test suite" finished-at="2018-01-22T00:42:06Z" duration-ms="345">
+    <groups>
+      <group name="Smoke Test">
+        <method signature="LoginTest_TestNG.loginTest()[pri:0, instance:selenium.LoginTest_TestNG@399f45b1]" name="loginTest" class="selenium.LoginTest_TestNG"/>
+      </group> <!-- Smoke Test -->
+      <group name="Integration Test">
+        <method signature="LoginTest_TestNG.loginTest()[pri:0, instance:selenium.LoginTest_TestNG@399f45b1]" name="loginTest" class="selenium.LoginTest_TestNG"/>
+      </group> <!-- Integration Test -->
+    </groups>
+    <test started-at="2018-01-22T00:42:06Z" name="Smoke Test" finished-at="2018-01-22T00:42:06Z" duration-ms="345">
+      <class name="selenium.LoginTest_TestNG">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:selenium.LoginTest_TestNG@399f45b1]" started-at="2018-01-21T19:42:02Z" name="beforeSuite" finished-at="2018-01-21T19:42:06Z" duration-ms="4448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="loginTest()[pri:0, instance:selenium.LoginTest_TestNG@399f45b1]" started-at="2018-01-21T19:42:06Z" name="loginTest" description="Login to newtours website" finished-at="2018-01-21T19:42:06Z" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:selenium.LoginTest_TestNG@399f45b1]" started-at="2018-01-21T19:42:06Z" name="closeBrowser" finished-at="2018-01-21T19:42:07Z" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- selenium.LoginTest_TestNG -->
+    </test> <!-- Smoke Test -->
+  </suite> <!-- TestNG test suite -->
+</testng-results>

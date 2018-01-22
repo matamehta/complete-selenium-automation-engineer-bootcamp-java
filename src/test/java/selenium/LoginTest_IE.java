@@ -20,7 +20,7 @@ public class LoginTest_IE {
         WebDriver driver = new InternetExplorerDriver();
 
         //Go to newtours website
-        driver.get("http://www.newtours.demoaut.com");
+        driver.get("https://newtours.herokuapp.com/");
 
         //maximize the window
         driver.manage().window().maximize();

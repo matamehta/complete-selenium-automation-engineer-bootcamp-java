@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name="TestNG test suite">
+    <test name="Smoke Test">
+        <groups>
+            <run>
+                <include name="Smoke Test"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="selenium.LoginTest_TestNG" />
+        </classes>
+    </test>
+</suite>
+
+
