@@ -1,13 +1,10 @@
-<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
-<suite name="TestNG test suite">
-    <test name="Smoke Test">
-        <groups>
-            <run>
-                <include name="Smoke Test"/>
-            </run>
-        </groups>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite" thread-count="3" >
+    <test name="testGuru">
         <classes>
-            <class name="selenium.LoginTest_TestNG" />
+            <class name="selenium.TestNG_Parameterization_DataProvider">
+            </class>
         </classes>
     </test>
 </suite>

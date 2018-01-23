@@ -2,20 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de1ac2ed-aa6c-46c3-acca-bcf7d730f5cc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/ExplicitWaitTest.class" afterPath="$PROJECT_DIR$/target/test-classes/ExplicitWaitTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/selenium/LoginTest.class" afterPath="$PROJECT_DIR$/target/test-classes/selenium/LoginTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/selenium/LoginTest_Chrome.class" afterPath="$PROJECT_DIR$/target/test-classes/selenium/LoginTest_Chrome.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/selenium/LoginTest_IE.class" afterPath="$PROJECT_DIR$/target/test-classes/selenium/LoginTest_IE.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/selenium/LoginTest_Safari.class" afterPath="$PROJECT_DIR$/target/test-classes/selenium/LoginTest_Safari.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/selenium/datadrivenframework/Yaml_Data_Driven_Framework.class" afterPath="$PROJECT_DIR$/target/test-classes/selenium/datadrivenframework/Yaml_Data_Driven_Framework.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TestNG test suite/Smoke Test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/TestNG test suite/Smoke Test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-selenium.LoginTest_TestNG.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNG test suite/Smoke Test.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNG test suite/classes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNG test suite/groups.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNG test suite/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNG test suite/main.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNG test suite/methods-alphabetical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNG test suite/methods-not-run.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNG test suite/methods.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNG test suite/reporter-output.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNG test suite/testng.xml.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire-reports/old/TestNG test suite/toc.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ExplicitWaitTest.java" afterPath="$PROJECT_DIR$/src/test/java/ExplicitWaitTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/selenium/LoginTest.java" afterPath="$PROJECT_DIR$/src/test/java/selenium/LoginTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/selenium/LoginTest_Chrome.java" afterPath="$PROJECT_DIR$/src/test/java/selenium/LoginTest_Chrome.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/selenium/LoginTest_IE.java" afterPath="$PROJECT_DIR$/src/test/java/selenium/LoginTest_IE.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/selenium/LoginTest_Safari.java" afterPath="$PROJECT_DIR$/src/test/java/selenium/LoginTest_Safari.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemyseleniumjava.iml" afterPath="$PROJECT_DIR$/udemyseleniumjava.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testng.xml" afterPath="$PROJECT_DIR$/testng.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -54,21 +64,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginTest_TestNG.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LoginTest_TestNG.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/selenium/LoginTest_TestNG.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="37" column="53" lean-forward="true" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
+            <state relative-caret-position="818">
+              <caret line="62" column="5" lean-forward="false" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestNG_Parameterization.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/TestNG_Parameterization.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-195">
+              <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestNG_Parameterization_DataProvider.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/TestNG_Parameterization_DataProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="438">
+              <caret line="41" column="36" lean-forward="false" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -132,6 +162,10 @@
         <option value="$PROJECT_DIR$/src/test/java/selenium/TestNG.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/LoginTest_TestNG.java" />
+        <option value="$PROJECT_DIR$/paramterized_testng.xml" />
+        <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/TestNG_Parameterization.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/TestNG_Parameterization_DataProvider.java" />
       </list>
     </option>
   </component>
@@ -146,9 +180,9 @@
     <option name="jreName" value="9" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="439" />
+    <option name="x" value="823" />
     <option name="y" value="23" />
-    <option name="width" value="1864" />
+    <option name="width" value="2307" />
     <option name="height" value="1009" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -278,36 +312,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="selenium" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="datadrivenframework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemyseleniumjava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="udemyseleniumjava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -334,6 +338,7 @@
       <recent name="selenium.wait" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/test/java" />
     </key>
   </component>
@@ -349,33 +354,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LoginTest_TestNG">
-    <configuration default="false" name="Excel_Data_Driven_Framework_Loop.excel_data_driven_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="selenium.datadrivenframework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="udemyseleniumjava" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="selenium.datadrivenframework" />
-      <option name="MAIN_CLASS_NAME" value="selenium.datadrivenframework.Excel_Data_Driven_Framework_Loop" />
-      <option name="METHOD_NAME" value="excel_data_driven_test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="TestNG.TestNG_Parameterization_DataProvider">
     <configuration default="false" name="Yaml_Data_Driven_Framework.yaml_data_driven_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -472,6 +451,39 @@
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestNG_Parameterization_DataProvider" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="udemyseleniumjava" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="selenium" />
+      <option name="MAIN_CLASS_NAME" value="selenium.TestNG_Parameterization_DataProvider" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -727,20 +739,20 @@
       <method />
     </configuration>
     <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.Excel_Data_Driven_Framework_Loop.excel_data_driven_test" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.Yaml_Data_Driven_Framework.yaml_data_driven_test" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.LoginTest_TestNG.login_test" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.LoginTest_TestNG" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.LoginTest" />
-      <item index="5" class="java.lang.String" itemvalue="TestNG./Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/src/test/java/selenium/TestNG.xml" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.Yaml_Data_Driven_Framework.yaml_data_driven_test" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.LoginTest_TestNG.login_test" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.LoginTest_TestNG" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.LoginTest" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG./Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/src/test/java/selenium/TestNG.xml" />
+      <item index="5" class="java.lang.String" itemvalue="TestNG.TestNG_Parameterization_DataProvider" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG./Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/src/test/java/selenium/TestNG.xml" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.LoginTest" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.LoginTest_TestNG.login_test" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.Yaml_Data_Driven_Framework.yaml_data_driven_test" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.Excel_Data_Driven_Framework_Loop.excel_data_driven_test" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.TestNG_Parameterization_DataProvider" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG./Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/src/test/java/selenium/TestNG.xml" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.LoginTest" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.LoginTest_TestNG.login_test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Yaml_Data_Driven_Framework.yaml_data_driven_test" />
       </list>
     </recent_temporary>
   </component>
@@ -758,32 +770,32 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Excel_Data_Driven_Framework_Loop_login_test - 2018.01.13 at 12h 03m 16s.xml">
-      <configuration name="Excel_Data_Driven_Framework_Loop.login_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Excel_Data_Driven_Framework_Loop_login_test - 2018.01.13 at 12h 05m 59s.xml">
-      <configuration name="Excel_Data_Driven_Framework_Loop.login_test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginTest - 2018.01.21 at 18h 52m 23s.xml">
-      <configuration name="LoginTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="LoginTest_TestNG - 2018.01.21 at 18h 58m 15s.xml">
-      <configuration name="LoginTest_TestNG" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginTest_TestNG - 2018.01.21 at 19h 03m 46s.xml">
-      <configuration name="LoginTest_TestNG" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="LoginTest_TestNG - 2018.01.21 at 19h 24m 56s.xml">
-      <configuration name="LoginTest_TestNG" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="LoginTest_TestNG - 2018.01.21 at 19h 34m 36s.xml">
       <configuration name="LoginTest_TestNG" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_TestNG_login_test - 2018.01.21 at 18h 50m 10s.xml">
-      <configuration name="LoginTest_TestNG.login_test" configurationId="TestNG" />
+    <history-entry file="TestNG_Parameterization_DataProvider - 2018.01.21 at 20h 41m 38s.xml">
+      <configuration name="TestNG_Parameterization_DataProvider" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Yaml_Data_Driven_Framework_yaml_data_driven_test - 2018.01.21 at 16h 12m 44s.xml">
-      <configuration name="Yaml_Data_Driven_Framework.yaml_data_driven_test" configurationId="JUnit" />
+    <history-entry file="TestNG_Parameterization_DataProvider - 2018.01.21 at 20h 45m 28s.xml">
+      <configuration name="TestNG_Parameterization_DataProvider" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestNG_Parameterization_DataProvider - 2018.01.21 at 20h 46m 23s.xml">
+      <configuration name="TestNG_Parameterization_DataProvider" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestNG_Parameterization_DataProvider - 2018.01.21 at 20h 49m 03s.xml">
+      <configuration name="TestNG_Parameterization_DataProvider" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestNG_Parameterization_DataProvider - 2018.01.21 at 20h 51m 31s.xml">
+      <configuration name="TestNG_Parameterization_DataProvider" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestNG_Parameterization_DataProvider - 2018.01.21 at 20h 57m 22s.xml">
+      <configuration name="TestNG_Parameterization_DataProvider" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestNG_Parameterization_DataProvider - 2018.01.21 at 20h 59m 36s.xml">
+      <configuration name="TestNG_Parameterization_DataProvider" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestNG_Parameterization_DataProvider - 2018.01.21 at 21h 02m 46s.xml">
+      <configuration name="TestNG_Parameterization_DataProvider" configurationId="TestNG" />
     </history-entry>
     <history-entry file="_Users_tulachanashok_Documents_Udemy-Selenium-Java_udemyseleniumjava_src_test_java_selenium_TestNG_xml - 2018.01.21 at 19h 25m 17s.xml">
       <configuration name="/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/src/test/java/selenium/TestNG.xml" configurationId="TestNG" />
@@ -799,7 +811,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="439" y="23" width="1864" height="1009" extended-state="0" />
+    <frame x="823" y="23" width="2307" height="1009" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -812,12 +824,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34574467" sideWeight="0.265625" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.012765957" sideWeight="0.734375" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0148936175" sideWeight="0.734375" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15879828" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24013871" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25851065" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -877,30 +889,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/JUnitTestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -1177,18 +1165,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/LoginTest_TestNG.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="818">
+          <caret line="62" column="5" lean-forward="false" selection-start-line="62" selection-start-column="5" selection-end-line="62" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/LoginTest_TestNG.java">
+    <entry file="file://$PROJECT_DIR$/paramterized_testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="37" column="53" lean-forward="true" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/TestNG_Parameterization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-195">
+          <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/TestNG_Parameterization_DataProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="41" column="36" lean-forward="false" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
