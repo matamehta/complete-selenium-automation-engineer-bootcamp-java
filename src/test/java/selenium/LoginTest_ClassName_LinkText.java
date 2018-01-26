@@ -12,7 +12,7 @@ public class LoginTest_ClassName_LinkText {
     @Test
     public void login_test() throws InterruptedException {
         //Declare the gecko driver path
-        System.setProperty("webdriver.gecko.driver", "/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/geckodriver");
+        System.setProperty("webdriver.gecko.driver", "/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/geckodriver1");
 
         //Initialize the selenium webdriver class and create object
         WebDriver driver = new FirefoxDriver();

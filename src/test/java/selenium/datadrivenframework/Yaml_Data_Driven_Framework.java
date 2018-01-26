@@ -51,7 +51,7 @@ public class Yaml_Data_Driven_Framework {
 
 
         //Declare the gecko driver path
-        System.setProperty("webdriver.gecko.driver", "/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/geckodriver");
+        System.setProperty("webdriver.gecko.driver", "/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/geckodriver1");
 
         //Initialize the selenium webdriver class and create object
         WebDriver driver = new FirefoxDriver();

@@ -19,7 +19,7 @@ public class LoginTest_TestNG {
     @BeforeSuite(groups = {"Smoke Test", "Integration Test"})
     public void beforeSuite(){
         //Declare the gecko driver path
-        System.setProperty("webdriver.gecko.driver", "/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/geckodriver");
+        System.setProperty("webdriver.gecko.driver", "/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/geckodriver1");
         //Initialize the selenium webdriver class and create object
         driver = new FirefoxDriver();
         //Go to newtours website

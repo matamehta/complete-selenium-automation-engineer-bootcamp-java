@@ -18,7 +18,7 @@ public class TestNG_Parameterization_DataProvider {
     WebDriver driver = null;
     @BeforeMethod(groups = {"Smoke Test", "Integration Test"})
     public void beforeMethod(){
-        System.setProperty("webdriver.gecko.driver", "/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/geckodriver");
+        System.setProperty("webdriver.gecko.driver", "/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/geckodriver1");
         //Initialize the selenium webdriver class and create object
         driver = new FirefoxDriver();
         //Go to newtours website

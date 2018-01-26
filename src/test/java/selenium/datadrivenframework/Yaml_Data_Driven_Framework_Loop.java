@@ -79,7 +79,7 @@ public class Yaml_Data_Driven_Framework_Loop {
             //Initialize the selenium webdriver class and create object
             if (browserType.equalsIgnoreCase("firefox")) {
                 //Declare the gecko driver path
-                System.setProperty("webdriver.gecko.driver", "/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/geckodriver");
+                System.setProperty("webdriver.gecko.driver", "/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/geckodriver1");
                 driver = new FirefoxDriver();
             } else if (browserType.equalsIgnoreCase("chrome")) {
                 System.setProperty("webdriver.chrome.driver", "/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/chromedriver");

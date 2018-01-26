@@ -2,13 +2,16 @@ selenium/TestNG_Parameterization_DataProvider.class
 selenium/LoginTest_IE.class
 selenium/LoginTest_Chrome.class
 selenium/TestNG_Parameterization.class
+selenium/Grid_Test_Chrome.class
 selenium/advancedselenium/Alert_Dismiss.class
 selenium/LoginTest_ID_Name.class
 ExplicitWaitTest.class
 selenium/datadrivenframework/Yaml_Data_Driven_Framework_Loop.class
 selenium/LoginTest.class
+selenium/Grid_Test.class
 selenium/wait/Calendar_Example.class
 selenium/LoginTest_Safari.class
+selenium/Grid_Test_Firefox2.class
 Addition.class
 selenium/wait/Implicit_Wait_Example.class
 selenium/wait/Header_Automation.class
@@ -17,7 +20,9 @@ selenium/advancedselenium/IFrame_Example.class
 JUnitTestSuite.class
 selenium/datadrivenframework/Excel_Data_Driven_Framework_Loop.class
 selenium/LoginTest_TestNG.class
+selenium/Grid_Test_IE.class
 selenium/datadrivenframework/Excel_Data_Driven_Framework_example1.class
+selenium/Grid_Test_Safari.class
 selenium/advancedselenium/Alert_Example.class
 JUnitTest.class
 JUnitTestBeforeAfterClass.class
