@@ -27,7 +27,8 @@ public class Grid_Test {
     @Test
     public void login_test(String browser, String port) throws InterruptedException, MalformedURLException {
         //Initialize the hubURL with your ip address and port
-        String hubURL = "http://192.168.1.163:".concat(port).concat("/wd/hub");
+        //String hubURL = "http://192.168.1.163:".concat(port).concat("/wd/hub");
+        String hubURL = "http://localhost:4444".concat("/wd/hub");
         //Create firefox browser object from Desired Capabilities object
         DesiredCapabilities capability = new DesiredCapabilities();
         //Set Browser Name
@@ -35,7 +36,7 @@ public class Grid_Test {
         //Accept Insecure Certificate
         capability.acceptInsecureCerts();
         //Set Platform such as Mac, Windows based on the OS you are running your test
-        capability.setPlatform(Platform.MAC);
+        capability.setPlatform(Platform.ANY);
         //Create Remote Webdriver object using the hubUrl and capabilities object
         WebDriver driver = new RemoteWebDriver(new URL(hubURL), capability);
         //Go to newtours website

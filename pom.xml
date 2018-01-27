@@ -87,6 +87,28 @@
                 </configuration>
             </plugin>
 
+            <plugin>
+                <groupId>com.spotify</groupId>
+                <artifactId>dockerfile-maven-plugin</artifactId>
+                <version>1.3.5</version>
+                <executions>
+                    <execution>
+                        <id>default</id>
+                        <goals>
+                            <goal>build</goal>
+                            <goal>push</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <!-- vinsdocker is org name. -->
+                    <!-- containertest is the name of the image /  application  -->
+                    <repository>seleniumguru/dockertest</repository>
+                    <!-- version of your image: could be sprint11 or release5 etc -->
+                    <tag>login_test</tag>
+                </configuration>
+            </plugin>
+
 
 
 

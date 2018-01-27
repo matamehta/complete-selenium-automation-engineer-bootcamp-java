@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-01-25T07:05:07Z" name="Selenium TestNG Suite" finished-at="2018-01-25T07:05:15Z" duration-ms="7509">
+  <suite started-at="2018-01-27T03:57:45Z" name="Selenium TestNG Suite" finished-at="2018-01-27T03:57:57Z" duration-ms="11375">
     <groups>
     </groups>
-    <test started-at="2018-01-25T07:05:07Z" name="Selenium TestNG - 1" finished-at="2018-01-25T07:05:12Z" duration-ms="5107">
+    <test started-at="2018-01-27T03:57:45Z" name="Selenium TestNG - 1" finished-at="2018-01-27T03:57:54Z" duration-ms="8520">
       <class name="selenium.Grid_Test">
-        <test-method signature="login_test(java.lang.String, java.lang.String)[pri:0, instance:selenium.Grid_Test@38102d01]" started-at="2018-01-25T02:05:07Z" name="login_test" finished-at="2018-01-25T02:05:12Z" duration-ms="5081" status="PASS">
+        <test-method signature="login_test(java.lang.String, java.lang.String)[pri:0, instance:selenium.Grid_Test@38102d01]" started-at="2018-01-26T22:57:46Z" name="login_test" finished-at="2018-01-26T22:57:54Z" duration-ms="8498" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -16,7 +16,7 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[5555]]>
+                <![CDATA[4677]]>
               </value>
             </param>
           </params>
@@ -25,9 +25,9 @@
         </test-method> <!-- login_test -->
       </class> <!-- selenium.Grid_Test -->
     </test> <!-- Selenium TestNG - 1 -->
-    <test started-at="2018-01-25T07:05:12Z" name="Selenium TestNG - 2" finished-at="2018-01-25T07:05:15Z" duration-ms="2333">
+    <test started-at="2018-01-27T03:57:54Z" name="Selenium TestNG - 2" finished-at="2018-01-27T03:57:57Z" duration-ms="2806">
       <class name="selenium.Grid_Test">
-        <test-method signature="login_test(java.lang.String, java.lang.String)[pri:0, instance:selenium.Grid_Test@17a7f733]" started-at="2018-01-25T02:05:12Z" name="login_test" finished-at="2018-01-25T02:05:15Z" duration-ms="2332" status="PASS">
+        <test-method signature="login_test(java.lang.String, java.lang.String)[pri:0, instance:selenium.Grid_Test@17a7f733]" started-at="2018-01-26T22:57:54Z" name="login_test" finished-at="2018-01-26T22:57:57Z" duration-ms="2805" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -36,7 +36,7 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[5556]]>
+                <![CDATA[4678]]>
               </value>
             </param>
           </params>

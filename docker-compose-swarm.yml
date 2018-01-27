@@ -1,0 +1,39 @@
+version: '3'
+
+services:
+    selenium_hub:
+        image: selenium/hub:latest
+        ports:
+            - "4444:4444"
+        environment:
+            - GRID_TIMEOUT=120
+            - GRID_BROWSER_TIMEOUT=120
+
+    nodechrome:
+        image: selenium/node-chrome-debug
+        depends_on:
+            - selenium_hub
+        ports:
+            - 5900
+            - 5555
+        environment:
+            - NODE_MAX_SESSION=5
+            - NODE_MAX_INSTANCES=1
+            - no_proxy=localhost
+            - HUB_PORT_4444_TCP_ADDR=selenium_hub
+            - HUB_PORT_4444_TCP_PORT=4444
+        entrypoint: 'bash -c "REMOTE_HOST=\"http://$$HOSTNAME:5555\" /opt/bin/entry_point.sh"'
+    nodefirefox:
+        image: selenium/node-firefox-debug
+        depends_on:
+            - selenium_hub
+        ports:
+            - 5900
+            - 5555
+        environment:
+            - NODE_MAX_SESSION=5
+            - NODE_MAX_INSTANCES=1
+            - no_proxy=localhost
+            - HUB_PORT_4444_TCP_ADDR=selenium_hub
+            - HUB_PORT_4444_TCP_PORT=4444
+        entrypoint: 'bash -c "REMOTE_HOST=\"http://$$HOSTNAME:5555\" /opt/bin/entry_point.sh"'
