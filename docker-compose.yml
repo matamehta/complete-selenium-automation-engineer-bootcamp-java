@@ -12,7 +12,6 @@ services:
     environment:
       - HUB_PORT_4444_TCP_ADDR=selenium-hub
       - HUB_PORT_4444_TCP_PORT=4444
-    entrypoint: 'bash -c "REMOTE_HOST=\"http://$$HOSTNAME:5555\" /opt/bin/entry_point.sh"'
   firefox:
     image: selenium/node-firefox
     depends_on:
@@ -20,4 +19,7 @@ services:
     environment:
       - HUB_PORT_4444_TCP_ADDR=selenium-hub
       - HUB_PORT_4444_TCP_PORT=4444
-    entrypoint: 'bash -c "REMOTE_HOST=\"http://$$HOSTNAME:5555\" /opt/bin/entry_point.sh"'
+
+
+
+
