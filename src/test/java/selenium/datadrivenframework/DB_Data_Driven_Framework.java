@@ -16,12 +16,13 @@ import java.sql.*;
 import static junit.framework.TestCase.fail;
 
 /**
- * Created by SeleniumGuru.com on 1/15/18.
+ * Created by SeleniumGuru.com.
  */
-public class DB_Data_Driven_Framework_Loop {
-    private final static String DB_URL = "jdbc:postgresql://localhost:5432/company";
+public class DB_Data_Driven_Framework {
+    private final static String DB_URL = "jdbc:postgresql://localhost:5434/company";
     private final static String USER = "ashok";
     private final static String PASS = "test1234";
+
     @Test
     public void database_data_driven_test() throws InterruptedException, IOException, InvalidFormatException, SQLException, ClassNotFoundException {
         //Initialize webdriver
@@ -87,3 +88,7 @@ public class DB_Data_Driven_Framework_Loop {
         conn.close();
   }
 }
+
+
+
+
