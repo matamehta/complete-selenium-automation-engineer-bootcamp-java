@@ -25,6 +25,8 @@ public class DB_Data_Driven_Framework {
 
     @Test
     public void database_data_driven_test() throws InterruptedException, IOException, InvalidFormatException, SQLException, ClassNotFoundException {
+        //Intialize the gecko driver file path
+        String geckoDriverFilePath = System.getProperty("user.dir");
         //Initialize webdriver
         WebDriver driver = null;
         //Use postgres driver
@@ -44,14 +46,15 @@ public class DB_Data_Driven_Framework {
             String browserType = "Firefox";
             //Initialize the selenium webdriver class and create object
             if (browserType.equalsIgnoreCase("firefox")) {
+                System.setProperty("path", "user.directory");
                 //Declare the gecko driver path
-                System.setProperty("webdriver.gecko.driver", "/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/geckodriver");
+                System.setProperty("webdriver.gecko.driver", geckoDriverFilePath.concat("geckodriver"));
                 driver = new FirefoxDriver();
             } else if (browserType.equalsIgnoreCase("chrome")) {
-                System.setProperty("webdriver.chrome.driver", "/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/chromedriver");
+                System.setProperty("webdriver.chrome.driver", geckoDriverFilePath.concat("geckodriver"));
                 driver = new ChromeDriver();
             } else {
-                System.setProperty("webdriver.safari.driver", "/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/safaridriver");
+                System.setProperty("webdriver.safari.driver", geckoDriverFilePath.concat("geckodriver"));
                 driver = new SafariDriver();
             }
             //Go to newtours website
