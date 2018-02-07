@@ -1,13 +1,11 @@
 <!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd">
 <suite name="TestNG Example">
+    <!--<parameter name="username" value="seleniumguru"></parameter>-->
+    <!--<parameter name="password" value="test1234"/>-->
     <test name="Smoke Test">
-        <groups>
-            <run>
-                <include name="Smoke Test"></include>
-            </run>
-        </groups>
         <classes>
-            <class name="selenium.testng.LoginTest_TestNG_Example"></class>
-        </classes>
-    </test>
+            <!--<class name="selenium.testng.LoginTest_TestNG_Paramaterized_Example"></class>-->
+            <class name="selenium.testng.LoginTest_TestNG_DataProvider"></class>
+</classes>
+</test>
 </suite>

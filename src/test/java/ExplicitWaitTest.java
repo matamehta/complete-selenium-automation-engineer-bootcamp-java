@@ -23,7 +23,7 @@ public class ExplicitWaitTest {
         //Set Explicit Wait for 10 seconds by creating object for WebDriverWait class
         WebDriverWait wait = new WebDriverWait(driver, 10);
         //Now wait until next element is present
-        //wait.until(ExpectedConditions.presenceOfElementLocated(By.name("findFlights")));
+        wait.until(ExpectedConditions.presenceOfElementLocated(By.name("findFlights")));
         System.out.println(driver.getTitle());  //Get Title
         if (driver.getTitle().equals("Find a Flight: Mercury Tours:")) {
             System.out.println("Test Passed"); //Print "Test Passed" if test passes
