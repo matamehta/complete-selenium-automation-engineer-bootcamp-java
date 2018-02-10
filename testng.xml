@@ -2,10 +2,16 @@
 <suite name="TestNG Example">
     <!--<parameter name="username" value="seleniumguru"></parameter>-->
     <!--<parameter name="password" value="test1234"/>-->
-    <test name="Smoke Test">
+    <test name="Regression Test" parallel="classes" thread-count="3">
+        <!--<classes>-->
+            <!--&lt;!&ndash;<class name="selenium.testng.LoginTest_TestNG_Paramaterized_Example"></class>&ndash;&gt;-->
+            <!--<class name="selenium.testng.LoginTest_TestNG_DataProvider"></class>-->
+        <!--</classes>-->
         <classes>
-            <!--<class name="selenium.testng.LoginTest_TestNG_Paramaterized_Example"></class>-->
-            <class name="selenium.testng.LoginTest_TestNG_DataProvider"></class>
-</classes>
-</test>
+            <class name="selenium.seleniumgrid.grid_test_chrome" />
+            <class name="selenium.seleniumgrid.grid_test_firefox" />
+            <class name="selenium.seleniumgrid.grid_test_safari" />
+            <class name="selenium.seleniumgrid.grid_test_ie" />
+        </classes>
+    </test>
 </suite>

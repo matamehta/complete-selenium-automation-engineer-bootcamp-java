@@ -2,39 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de1ac2ed-aa6c-46c3-acca-bcf7d730f5cc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/Addition.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/ExplicitWaitTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/JUnitTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/JUnitTestBeforeAfterClass.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/JUnitTestSuite.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/LoginTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/LoginTest_Chrome.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/LoginTest_ClassName_LinkText.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/LoginTest_ID_Name.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/LoginTest_IE.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/LoginTest_Safari.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/advancedselenium/Alert_Dismiss.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/advancedselenium/Alert_Example.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/advancedselenium/IFrame_Example.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/advancedselenium/Multiple_Windows.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/advancedselenium/Test.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/datadrivenframework/DB_Data_Driven_Framework.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/datadrivenframework/Excel_Data_Driven_Framework_Loop.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/datadrivenframework/Excel_Data_Driven_Framework_example1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/datadrivenframework/Yaml_Data_Driven_Framework.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/datadrivenframework/Yaml_Data_Driven_Framework_Loop.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/testng/LoginTest_TestNG_Dependency.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/testng/LoginTest_TestNG_Disabled.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/testng/LoginTest_TestNG_Example.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/wait/Calendar_Example.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/wait/Explicit_Wait_Example.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/wait/Header_Automation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/selenium/wait/Implicit_Wait_Example.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/selenium/testng/LoginTest_TestNG_Dependency.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/selenium/testng/LoginTest_TestNG_Disabled.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ExplicitWaitTest.java" afterPath="$PROJECT_DIR$/src/test/java/ExplicitWaitTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testng.xml" afterPath="$PROJECT_DIR$/testng.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/udemyseleniumjava.iml" afterPath="$PROJECT_DIR$/udemyseleniumjava.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,63 +22,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LoginTest_TestNG_Example.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/testng/LoginTest_TestNG_Example.java">
+      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
-              <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+            <state relative-caret-position="68">
+              <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="85" column="36" lean-forward="false" selection-start-line="85" selection-start-column="36" selection-end-line="85" selection-end-column="36" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <marker date="1518233786934" expanded="true" signature="3200:3219" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginTest_TestNG_Dependency.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/testng/LoginTest_TestNG_Dependency.java">
+      <file leaf-file-name="grid_test_chrome.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/seleniumgrid/grid_test_chrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="47" column="95" lean-forward="true" selection-start-line="47" selection-start-column="79" selection-end-line="47" selection-end-column="95" />
+            <state relative-caret-position="-678">
+              <caret line="31" column="46" lean-forward="false" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginTest_TestNG_Disabled.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/testng/LoginTest_TestNG_Disabled.java">
+      <file leaf-file-name="grid_test_linux.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/seleniumgrid/grid_test_linux.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="53" column="16" lean-forward="true" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginTest_TestNG_Paramaterized_Example.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/testng/LoginTest_TestNG_Paramaterized_Example.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="37" column="35" lean-forward="true" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testng.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginTest_TestNG_DataProvider.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/selenium/testng/LoginTest_TestNG_DataProvider.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="30" column="47" lean-forward="false" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -133,15 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/JUnitTestBeforeAfterClass.java" />
-        <option value="$PROJECT_DIR$/src/test/java/selenium/ExplicitWaitTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/selenium/LoginTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/selenium/LoginTest_Chrome.java" />
-        <option value="$PROJECT_DIR$/src/test/java/selenium/LoginTest_Safari.java" />
-        <option value="$PROJECT_DIR$/src/test/java/selenium/LoginTest_IE.java" />
-        <option value="$PROJECT_DIR$/src/test/java/selenium/LoginTest_XPath.java" />
-        <option value="$PROJECT_DIR$/src/test/java/selenium/AllState_HomePage_XPath.java" />
-        <option value="$PROJECT_DIR$/src/test/java/selenium/AllState_HomePage_CSS.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/LoginTest_ID_Name.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/LoginTest_ClassName_LinkText.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/wait/Implicit_Wait_Example.java" />
@@ -182,8 +124,17 @@
         <option value="$PROJECT_DIR$/src/test/java/selenium/testng/LoginTest_TestNG_Dependency.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/testng/LoginTest_TestNG_Disabled.java" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/testng/LoginTest_TestNG_Paramaterized_Example.java" />
-        <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/selenium/testng/LoginTest_TestNG_DataProvider.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/seleniumgrid/grid_test_firefox.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/seleniumgrid/grid_test_chrome.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/seleniumgrid/grid_test_safari.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/seleniumgrid/grid_test_ie.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/seleniumgrid/grid_test_headless.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/seleniumgrid/grid_test_linux.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/seleniumgrid/LoginTest_TestNG_ParallelExecution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selenium/seleniumgrid/grid_test_parallel.java" />
+        <option value="$PROJECT_DIR$/testng-parallel.xml" />
+        <option value="$PROJECT_DIR$/testng.xml" />
       </list>
     </option>
   </component>
@@ -199,7 +150,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="2773" />
+    <option name="width" value="1920" />
     <option name="height" value="1009" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -242,6 +193,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -355,12 +307,41 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="selenium" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="seleniumgrid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemyseleniumjava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemyseleniumjava" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -371,18 +352,19 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/src/test/java/selenium/wait/Implicit_Wait_Example.java" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/java" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="selenium.seleniumgrid" />
       <recent name="selenium.testng" />
       <recent name="selenium.datadrivenframework" />
       <recent name="selenium.advancedselenium" />
       <recent name="selenium.wait" />
-      <recent name="selenium" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -398,6 +380,39 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG./Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/testng.xml">
+    <configuration default="false" name="grid_test_linux" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="selenium.seleniumgrid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="udemyseleniumjava" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="selenium.seleniumgrid" />
+      <option name="MAIN_CLASS_NAME" value="selenium.seleniumgrid.grid_test_linux" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
     <configuration default="false" name="/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="udemyseleniumjava" />
@@ -426,10 +441,10 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="LoginTest_TestNG_Dependency.validateTitle" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="grid_test_parallel" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="selenium.testng.*" />
+          <option name="PATTERN" value="selenium.seleniumgrid.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -437,41 +452,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="selenium.testng" />
-      <option name="MAIN_CLASS_NAME" value="selenium.testng.LoginTest_TestNG_Dependency" />
-      <option name="METHOD_NAME" value="validateTitle" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
-    <configuration default="false" name="LoginTest_TestNG_Disabled" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="selenium.testng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="udemyseleniumjava" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="selenium.testng" />
-      <option name="MAIN_CLASS_NAME" value="selenium.testng.LoginTest_TestNG_Disabled" />
+      <option name="PACKAGE_NAME" value="selenium.seleniumgrid" />
+      <option name="MAIN_CLASS_NAME" value="selenium.seleniumgrid.grid_test_parallel" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -492,10 +474,10 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="LoginTest_TestNG_DataProvider.login_test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="grid_test_firefox" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="selenium.testng.*" />
+          <option name="PATTERN" value="selenium.seleniumgrid.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -503,11 +485,11 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="selenium.testng" />
-      <option name="MAIN_CLASS_NAME" value="selenium.testng.LoginTest_TestNG_DataProvider" />
-      <option name="METHOD_NAME" value="login_test" />
+      <option name="PACKAGE_NAME" value="selenium.seleniumgrid" />
+      <option name="MAIN_CLASS_NAME" value="selenium.seleniumgrid.grid_test_firefox" />
+      <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -525,22 +507,17 @@
       <listeners />
       <method />
     </configuration>
-    <configuration default="false" name="LoginTest_TestNG_DataProvider" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="selenium.testng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="false" name="/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/testng-parallel.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="udemyseleniumjava" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="selenium.testng" />
-      <option name="MAIN_CLASS_NAME" value="selenium.testng.LoginTest_TestNG_DataProvider" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng-parallel.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -788,19 +765,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG./Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/testng.xml" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.LoginTest_TestNG_Dependency.validateTitle" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.LoginTest_TestNG_Disabled" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.LoginTest_TestNG_DataProvider.login_test" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.LoginTest_TestNG_DataProvider" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.grid_test_linux" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG./Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/testng.xml" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.grid_test_parallel" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.grid_test_firefox" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG./Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/testng-parallel.xml" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="TestNG./Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/testng.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.LoginTest_TestNG_DataProvider" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.LoginTest_TestNG_DataProvider.login_test" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.LoginTest_TestNG_Disabled" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.LoginTest_TestNG_Dependency.validateTitle" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG./Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/testng-parallel.xml" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.grid_test_firefox" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.grid_test_parallel" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.grid_test_linux" />
       </list>
     </recent_temporary>
   </component>
@@ -818,34 +795,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginTest_TestNG_DataProvider - 2018.02.07 at 00h 05m 01s.xml">
-      <configuration name="LoginTest_TestNG_DataProvider" configurationId="TestNG" />
+    <history-entry file="_Users_tulachanashok_Documents_Udemy-Selenium-Java_udemyseleniumjava_testng-parallel_xml - 2018.02.10 at 00h 30m 42s.xml">
+      <configuration name="/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/testng-parallel.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_TestNG_DataProvider_login_test - 2018.02.07 at 00h 01m 26s.xml">
-      <configuration name="LoginTest_TestNG_DataProvider.login_test" configurationId="TestNG" />
+    <history-entry file="_Users_tulachanashok_Documents_Udemy-Selenium-Java_udemyseleniumjava_testng-parallel_xml - 2018.02.10 at 00h 31m 42s.xml">
+      <configuration name="/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/testng-parallel.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_TestNG_DataProvider_login_test - 2018.02.07 at 00h 02m 48s.xml">
-      <configuration name="LoginTest_TestNG_DataProvider.login_test" configurationId="TestNG" />
+    <history-entry file="_Users_tulachanashok_Documents_Udemy-Selenium-Java_udemyseleniumjava_testng-parallel_xml - 2018.02.10 at 00h 32m 11s.xml">
+      <configuration name="/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/testng-parallel.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_TestNG_Dependency_validateTitle - 2018.02.06 at 23h 35m 15s.xml">
-      <configuration name="LoginTest_TestNG_Dependency.validateTitle" configurationId="TestNG" />
+    <history-entry file="_Users_tulachanashok_Documents_Udemy-Selenium-Java_udemyseleniumjava_testng-parallel_xml - 2018.02.10 at 00h 34m 34s.xml">
+      <configuration name="/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/testng-parallel.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_TestNG_Dependency_validateTitle - 2018.02.06 at 23h 36m 32s.xml">
-      <configuration name="LoginTest_TestNG_Dependency.validateTitle" configurationId="TestNG" />
+    <history-entry file="_Users_tulachanashok_Documents_Udemy-Selenium-Java_udemyseleniumjava_testng-parallel_xml - 2018.02.10 at 00h 37m 28s.xml">
+      <configuration name="/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/testng-parallel.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTest_TestNG_Disabled - 2018.02.06 at 23h 37m 42s.xml">
-      <configuration name="LoginTest_TestNG_Disabled" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_tulachanashok_Documents_Udemy-Selenium-Java_udemyseleniumjava_testng_xml - 2018.02.06 at 23h 49m 31s.xml">
+    <history-entry file="_Users_tulachanashok_Documents_Udemy-Selenium-Java_udemyseleniumjava_testng_xml - 2018.02.10 at 00h 49m 34s.xml">
       <configuration name="/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_tulachanashok_Documents_Udemy-Selenium-Java_udemyseleniumjava_testng_xml - 2018.02.07 at 00h 04m 05s.xml">
+    <history-entry file="_Users_tulachanashok_Documents_Udemy-Selenium-Java_udemyseleniumjava_testng_xml - 2018.02.10 at 16h 18m 55s.xml">
       <configuration name="/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_tulachanashok_Documents_Udemy-Selenium-Java_udemyseleniumjava_testng_xml - 2018.02.07 at 00h 07m 53s.xml">
+    <history-entry file="_Users_tulachanashok_Documents_Udemy-Selenium-Java_udemyseleniumjava_testng_xml - 2018.02.10 at 16h 43m 00s.xml">
       <configuration name="/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_tulachanashok_Documents_Udemy-Selenium-Java_udemyseleniumjava_testng_xml - 2018.02.07 at 00h 14m 18s.xml">
+    <history-entry file="_Users_tulachanashok_Documents_Udemy-Selenium-Java_udemyseleniumjava_testng_xml - 2018.02.10 at 16h 43m 57s.xml">
+      <configuration name="/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_tulachanashok_Documents_Udemy-Selenium-Java_udemyseleniumjava_testng_xml - 2018.02.10 at 16h 55m 30s.xml">
       <configuration name="/Users/tulachanashok/Documents/Udemy-Selenium-Java/udemyseleniumjava/testng.xml" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -859,7 +836,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2773" height="1009" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="1009" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -871,14 +848,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34574467" sideWeight="0.265625" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26702127" sideWeight="0.734375" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20851064" sideWeight="0.734375" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19870177" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25851065" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4484375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -886,34 +862,12 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27978724" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34574467" sideWeight="0.265625" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12690952" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27978724" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3617021" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.05531915" sideWeight="0.734375" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5535714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25851065" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -938,46 +892,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/JUnitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/LoginTest_IE.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="827">
-          <caret line="47" column="38" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="47" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/LoginTest_XPath.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/AllState_HomePage_XPath.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/AllState_HomePage_CSS.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/LoginTest_ID_Name.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/wait/Header_Automation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/wait/Implicit_Wait_Example.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/wait/Dropdown_Example.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/wait/Calendar_Automation.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium/wait/Explicit_Wait_Example.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9">
@@ -1074,7 +988,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1091,9 +1004,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="31" column="31" lean-forward="false" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
-          <folding>
-            <marker date="1517885591067" expanded="true" signature="677:711" ph="/**...*/" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1101,7 +1011,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2702">
           <caret line="217" column="29" lean-forward="false" selection-start-line="217" selection-start-column="29" selection-end-line="217" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1109,7 +1018,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="16" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1117,17 +1025,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="499">
           <caret line="67" column="82" lean-forward="true" selection-start-line="67" selection-start-column="82" selection-end-line="67" selection-end-column="82" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="70" column="40" lean-forward="false" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1135,15 +1032,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="59">
           <caret line="41" column="32" lean-forward="false" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="13" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1157,8 +1045,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium/LoginTest_Chrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="187">
+          <caret line="17" column="139" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="17" selection-end-column="139" />
           <folding />
         </state>
       </provider>
@@ -1171,32 +1059,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ExplicitWaitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="25" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/testng/LoginTest_TestNG_Ignore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/testng/LoginTest_TestNG_Example.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/testng/LoginTest_TestNG_Ignore.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/selenium/testng/LoginTest_TestNG_Dependency.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
@@ -1221,10 +1084,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/testng/LoginTest_TestNG_Example.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="796">
+          <caret line="71" column="5" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="71" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/seleniumgrid/grid_test_headless.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.8.1/selenium-remote-driver-3.8.1.jar!/org/openqa/selenium/remote/DesiredCapabilities.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="103" column="38" lean-forward="false" selection-start-line="103" selection-start-column="38" selection-end-line="103" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/seleniumgrid/grid_test_safari.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1233,6 +1122,69 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/seleniumgrid/LoginTest_TestNG_ParallelExecution.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/seleniumgrid/grid_test_ie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="27" column="46" lean-forward="false" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/seleniumgrid/grid_test_firefox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ExplicitWaitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="25" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/seleniumgrid/grid_test_parallel.java" />
+    <entry file="file://$PROJECT_DIR$/testng-parallel.xml" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/seleniumgrid/grid_test_linux.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="30" column="47" lean-forward="false" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selenium/seleniumgrid/grid_test_chrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-678">
+          <caret line="31" column="46" lean-forward="false" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="85" column="36" lean-forward="false" selection-start-line="85" selection-start-column="36" selection-end-line="85" selection-end-column="36" />
+          <folding>
+            <marker date="1518233786934" expanded="true" signature="3200:3219" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
           <folding />
         </state>
       </provider>
