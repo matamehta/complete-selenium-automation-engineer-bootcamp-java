@@ -2,14 +2,16 @@
 <suite name="TestNG Example">
     <!--<parameter name="username" value="seleniumguru"></parameter>-->
     <!--<parameter name="password" value="test1234"/>-->
-    <test name="Regression Test" parallel="classes" thread-count="3">
+    <test name="Regression Test" parallel="classes" thread-count="4">
         <!--<classes>-->
             <!--&lt;!&ndash;<class name="selenium.testng.LoginTest_TestNG_Paramaterized_Example"></class>&ndash;&gt;-->
             <!--<class name="selenium.testng.LoginTest_TestNG_DataProvider"></class>-->
         <!--</classes>-->
         <classes>
-            <class name="selenium.docker.grid_test_chrome" />
-            <class name="selenium.docker.grid_test_firefox" />
+            <class name="selenium.dockerswarm.grid_test_chrome" />
+            <class name="selenium.dockerswarm.grid_test_firefox" />
+            <class name="selenium.dockerswarm.grid_test_firefox2" />
+            <class name="selenium.dockerswarm.grid_test_firefox3" />
             <!--<class name="selenium.seleniumgrid.grid_test_safari" />-->
             <!--<class name="selenium.seleniumgrid.grid_test_ie" />-->
         </classes>
