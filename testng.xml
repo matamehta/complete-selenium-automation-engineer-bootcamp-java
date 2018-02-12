@@ -8,10 +8,10 @@
             <!--<class name="selenium.testng.LoginTest_TestNG_DataProvider"></class>-->
         <!--</classes>-->
         <classes>
-            <class name="selenium.seleniumgrid.grid_test_chrome" />
-            <class name="selenium.seleniumgrid.grid_test_firefox" />
-            <class name="selenium.seleniumgrid.grid_test_safari" />
-            <class name="selenium.seleniumgrid.grid_test_ie" />
+            <class name="selenium.docker.grid_test_chrome" />
+            <class name="selenium.docker.grid_test_firefox" />
+            <!--<class name="selenium.seleniumgrid.grid_test_safari" />-->
+            <!--<class name="selenium.seleniumgrid.grid_test_ie" />-->
         </classes>
     </test>
 </suite>
